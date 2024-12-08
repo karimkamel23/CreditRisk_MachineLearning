@@ -5,6 +5,9 @@ This repository contains a machine learning pipeline for credit score classifica
 You can find the dataset used on Kaggle here:
 https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
+Link to file used: 
+https://drive.google.com/file/d/1rGKLIzLtF6q8DYkb8QhQEHpJB6GYDACa/view?usp=sharing
+
 ## Project Contents:
 - Exploratory Data Analysis (EDA): Understanding data distributions and relationships.
 
